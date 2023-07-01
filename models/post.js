@@ -1,3 +1,4 @@
+const { timeStamp } = require('console');
 const mongoose = require('mongoose')
 const {ObjectId} = mongoose.Schema.Types
 
@@ -26,7 +27,7 @@ const postSchema = new mongoose.Schema({
       type:ObjectId,
       ref:"User"
     }
-})
+},{timestamps:true})
 
 // mongoose.model('Post', postSchema)
 module.exports = mongoose.model('Post', postSchema);
