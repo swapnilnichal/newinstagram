@@ -43,6 +43,10 @@ A simplified version of Instagram, built for learning purposes.
 
 ![Screenshot 1](./resources/Screenshot3.png)
 
+<h3>Profile Page View ➡️</h3>
+
+![Screenshot 1](./resources/profile.png)
+
 <h3>Entire View of Instagram Clone ➡️</h3>
 
 ![Screenshot 2](./resources/fullscreenshot.png)
